@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.895d7998.css",
+    "main.js": "/static/js/main.a43b1e95.js",
+    "static/js/453.2c9606df.chunk.js": "/static/js/453.2c9606df.chunk.js",
+    "static/media/srifin_final.svg": "/static/media/srifin_final.9f42977b77f26c3e08ff501e01391464.svg",
+    "index.html": "/index.html",
+    "main.895d7998.css.map": "/static/css/main.895d7998.css.map",
+    "main.a43b1e95.js.map": "/static/js/main.a43b1e95.js.map",
+    "453.2c9606df.chunk.js.map": "/static/js/453.2c9606df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.895d7998.css",
+    "static/js/main.a43b1e95.js"
+  ]
+}
