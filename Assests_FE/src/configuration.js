@@ -4,7 +4,7 @@
 
 
 const API_CONFIG = {
-    APIURL: 'http://10.203.141.202:2728/api',
+    APIURL: 'http://localhost:2728/api', http://localhost:3000
   };
 
 // Refresh Intervals and Timeouts
@@ -16,6 +16,6 @@ const REFRESH_CONFIG = {
 
 
 const UI_CONFIG = {
-  BASE_UI_URL: 'http://10.203.141.202:3000', // UI base URL
+  BASE_UI_URL: 'http://localhost:3000', // UI base URL
 };
 module.exports = { API_CONFIG, REFRESH_CONFIG, UI_CONFIG };
