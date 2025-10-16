@@ -4,7 +4,7 @@
 
 
 const API_CONFIG = {
-    APIURL: 'http://localhost:2728/api', http://localhost:3000
+    APIURL: 'http://localhost:2728/api', 
   };
 
 // Refresh Intervals and Timeouts
